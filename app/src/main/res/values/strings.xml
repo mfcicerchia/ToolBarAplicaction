@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alvear Supermercado</string>
+
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_2">Activity2</string>
+</resources>
